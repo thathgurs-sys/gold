@@ -1,0 +1,6 @@
+{
+  "name": "Ganesh Jewellers — Timeless Beauty. Infinite Memories.",
+  "description": "Exquisite jewellery crafted to celebrate every precious moment. Trusted since generations for 100% hallmarked, certified traditional Indian gold and diamond jewellery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
